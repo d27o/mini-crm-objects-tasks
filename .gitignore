@@ -5,3 +5,4 @@ dist
 .env.seed
 .DS_Store
 *.tsbuildinfo
+.claude
